@@ -1,7 +1,7 @@
 ---
 name: 機能追加・改善
 about: 新しい機能や改善の提案に使用します
-title: "【Feature】 "
+title: "【Feature】"
 labels: enhancement
 assignees: ""
 ---

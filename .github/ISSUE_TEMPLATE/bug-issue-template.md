@@ -1,7 +1,7 @@
 ---
 name: バグ報告
 about: 不具合の報告に使用します
-title: "【Bug】 "
+title: "【Bug】"
 labels: bug
 assignees: ""
 ---
